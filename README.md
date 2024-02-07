@@ -1,5 +1,5 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
-"BIZCARDX: EXTRACTING BUSINESS CARD DATA WITH OCR", aims to automate the process of extracting details from business card images using Optical Character Recognition (OCR). Here's a brief description of the project:
+"BIZCARDX: EXTRACTING BUSINESS CARD DATA WITH OCR", aims to automate the process of extracting details from business card images using Optical Character Recognition (OCR). Here's a brief description of the project: 
 # Objective: 
 The main objective of the project is to develop a tool that can extract relevant information from business card images efficiently and accurately.
 
