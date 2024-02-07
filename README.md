@@ -13,7 +13,7 @@ OpenCV (cv2): For image processing tasks.
 MySQL Connector: For connecting and interacting with the MySQL database.
 Base64: For encoding binary image data.
 Other standard Python libraries for various tasks.
-
+ 
 # Functionality:
 Upload and Extraction: Users can upload images of business cards through the web interface. The application then processes these images using OCR to extract information such as company name, card holder's name, designation, contact details (phone number, email), website, location (area, city, state, pin code), etc.
 Database Integration: Extracted information from the business cards is stored in a MySQL database for future reference.
